@@ -1091,7 +1091,7 @@ async function pageSettings() {
 }
 
 /* router / top bar */
-function setTitle(t, chip) { $("#page-title").textContent = t; const c = $("#page-chip"); c.textContent = chip || ""; c.style.display = chip ? "" : "none"; document.title = `${t}・TradingAgents`; }
+function setTitle(t, chip) { $("#page-title").textContent = t; const c = $("#page-chip"); c.textContent = chip || ""; c.style.display = chip ? "" : "none"; document.title = "easonAgents"; }
 async function route() {
   pageCleanup.forEach((f) => { try { f(); } catch (e) {} }); pageCleanup = []; closeSheet();
   const h = location.hash || "#/";
