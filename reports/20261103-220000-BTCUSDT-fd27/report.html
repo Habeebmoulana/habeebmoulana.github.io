@@ -7,8 +7,8 @@ code{background:#eef2f7;padding:1px 4px;border-radius:3px}blockquote{color:#667;
 <li><strong>補完成</strong>：前次失敗時尚未完成：投資組合經理；於 2026-11-03 22:23（台北）從最後完成的角色接續，決策以原始 run 時間的資料與價格為準</li>
 <li>當時價格：77,355.30 USDT　持有週期：約 24 小時</li>
 <li>決策：<strong>做空</strong>　信心 75/100　進場 77,580.00　停損 77,856.60　停利 76,360.00</li>
-<li>模型：快速思考 <code>gemini-3.5-flash-lite</code>（google 槽位 1、google 槽位 2）；深度思考 <code>gemini-3.5-flash</code>（google 槽位 1、google 槽位 2）</li>
-<li>金鑰分工：google 槽位 1（快速）：技術、情緒、新聞、鏈上、多頭、空頭；google 槽位 2（快速）：交易員、積極派、保守派、中立派；google 槽位 1（深度）：研究經理；google 槽位 2（深度）：投資組合經理</li>
+<li>模型：快速思考 <code>gemini-3.5-flash-lite</code>（google 槽位 1）；深度思考 <code>gemini-3.5-flash</code>（google 槽位 2、google 槽位 3（補完成））；備援：原始執行：gemini-3.5-flash 持續 503，PM 改用 gemini-3.1-flash-lite 仍 503 而失敗；補完成改用槽位 3 的 gemini-3.5-flash 成功</li>
+<li>金鑰分工：google 槽位 1（快速）：技術、情緒、新聞、鏈上、多頭、空頭、交易員、積極派、保守派、中立派；google 槽位 2（深度）：研究經理、投資組合經理；google 槽位 3（深度）：投資組合經理</li>
 <li>實際使用金鑰（手動 run：槽位 3 優先）：投資組合經理 槽位3×1</li>
 <li>使用備用金鑰（槽位 3）的角色：投資組合經理</li>
 <li>API 回報的模型版本：快速 —；深度 gemini-3.6-flash×1</li>
